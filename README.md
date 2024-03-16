@@ -20,11 +20,12 @@ The ai powered music recommender analyzes user mood and activity to offer person
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="[https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg](https://www.bing.com/images/search?view=detailV2&ccid=2QYfDhoI&id=E3F075B80F7D792361936679278D4578D35C438C&thid=OIP.2QYfDhoIyQr4mJkLxV8o-AHaEK&mediaurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*GMikfjbGYyPGDTYdJuMwhg.png&exph=720&expw=1280&q=music+recommendation+system+tagline+ideas&simid=608037266650767554&form=IRPRST&ck=CBEABE3D2630519EC1055798EEE71F15&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="blob:https://web.whatsapp.com/ff48e0c8-ded5-4a33-86d5-1b642d411775 alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
    
 </div>
+
 
 ## Problem statement 
 In today's fast-paced world, music has become an integral part of the driving experience for many individuals. However, the process of searching for and selecting music via smartphones while driving can be cumbersome and dangerous, potentially leading to accidents  , It mostly helpfull for four wheeler users.
@@ -89,7 +90,7 @@ Pip install googletrans
 
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+Continiuous improvemnets will ensure the system evolves to meet diverse user needs and expectations
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
