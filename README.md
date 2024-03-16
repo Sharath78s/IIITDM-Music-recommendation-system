@@ -25,7 +25,7 @@ The ai powered music recommender analyzes user mood and activity to offer person
 * personalized Suggestions
 * Efficient processing
 * Enhanced user Experience
-## The main aim of project
+## The Main Aim of Project
 * Problem statement : In today's fast-paced world, music has become an integral part of the driving experience for many individuals. However, the process of searching for and selecting music via smartphones while driving can be cumbersome and dangerous, potentially leading to accidents..
 * solution : To prevent accidents, we are introducing a music recommendation system. This system utilizes speech recognition and manual typing, and we are also developing an application where users can select their language, mood, activity, and preferred platforms. Subsequently, the system will recommend songs accordingly.
 ## Getting Started
