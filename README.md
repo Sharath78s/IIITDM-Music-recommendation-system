@@ -20,9 +20,9 @@ The ai powered music recommender analyzes user mood and activity to offer person
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="blob:https://web.whatsapp.com/ff48e0c8-ded5-4a33-86d5-1b642d411775 alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img%20output.jpeg" alt="Image 1" style="width: 30%; right-margin: 10px;">
+    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img.jpeg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img1.jpeg" alt="Image 3" style="width: 30%; margin: 10px;">
    
 </div>
 
@@ -86,7 +86,9 @@ Pip install web-browser
 ```bash
 Pip install googletrans
 ```
-* **Execute and click the link give a voice input get a recommended songs
+* After that in terminal it will generate a url like (http://127.0.0.1:5000) click the follow link
+* Then we will get the interface of our project to get inputs from the user
+* based on the inputs it will recomend songs on choosen platform
 
 
 # What's next ?
