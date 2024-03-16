@@ -20,8 +20,8 @@ The ai powered music recommender analyzes user mood and activity to offer person
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img%20output.jpeg" alt="Image 1" style="width: 30%; right-margin: 10px;">
     <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img.jpeg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img%20output.jpeg" alt="Image 1" style="width: 30%; right-margin: 10px;">
     <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img1.jpeg" alt="Image 3" style="width: 30%; margin: 10px;">
    
 </div>
@@ -49,14 +49,9 @@ In today's fast-paced world, music has become an integral part of the driving ex
 * Enhanced user Experience
 
 
-## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
 
 ## Techstacks used 
-`python` , `html` , `flask` 
+`python` , `html` , `flask` ,`google translator`
 
 
 ## How to run locally 
