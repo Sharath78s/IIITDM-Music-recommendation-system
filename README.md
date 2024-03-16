@@ -5,7 +5,7 @@
       ⭐️“Harmonize Your Playlist: Personalized Music Recommendations”  ⭐️ <br>
 </h1>
 
-# [`Website link`]()  [`Demo video link `]() [`Other links `]() 
+#  [`Demo video link `](https://github.com/Sharath78s/Vashisht-hackathon-VHO59/tree/main) [`Other links `]() 
 The ai powered music recommender analyzes user mood and activity to offer personalized song suggestion
 
 ## Team Details
