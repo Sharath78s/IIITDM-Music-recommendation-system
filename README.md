@@ -22,7 +22,12 @@ The ai powered music recommender analyzes user mood and activity to offer person
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img.jpeg" alt="Image 2" style="width: 30%; margin: 10px;">
     <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img%20output.jpeg" alt="Image 1" style="width: 30%; right-margin: 10px;">
+     <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img4.jpeg" alt="Image 3" style="width: 30%; margin: 10px;">
     <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img1.jpeg" alt="Image 3" style="width: 30%; margin: 10px;">
+    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img3.jpeg" alt="Image 3" style="width: 30%; margin: 10px;">
+    <img src="https://github.com/Sharath78s/Vashisht-hackathon-Music-recommendation-system/blob/main/output/img2.jpeg" alt="Image 3" style="width: 30%; margin: 10px;">
+    
+   
    
 </div>
 
