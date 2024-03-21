@@ -53,8 +53,6 @@ In today's fast-paced world, music has become an integral part of the driving ex
 * Efficient processing
 * Enhanced user Experience
 
-
-
 ## Techstacks used 
 `python` , `html` , `flask` ,`google translator`
 
